@@ -11,4 +11,3 @@ tags:
 ---
 
 Hello, welcome to Salyut. Grab a coffee and enjoy yourself!
-teste
