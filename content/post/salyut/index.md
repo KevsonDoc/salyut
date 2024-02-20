@@ -10,4 +10,4 @@ tags:
   - Salyut
 ---
 
-Hello, welcome to Salyut. Grab a coffee and enjoy yourself!
+Hello World, welcome to Salyut. Grab a coffee and enjoy yourself!
