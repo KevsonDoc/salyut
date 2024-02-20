@@ -2,7 +2,7 @@
 title: "Hello World"
 description: "Hello World"
 slug: Hello-World
-date: 2024-02-20T13:00:42-03:00
+date: 2024-02-20 00:00:00+0000
 image: 
 math: 
 license: 
