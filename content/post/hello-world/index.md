@@ -8,6 +8,10 @@ license:
 hidden: false
 comments: true
 draft: true
+categories:
+  - Salyut
+tags:
+  - Salyut
 ---
 
 Hello World
